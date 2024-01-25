@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\AssociativeArrays-Exercise\01.Count CharsInAString\bin\Debug\net6.0\01.Count CharsInAString.exe
+C:\Users\HP\source\repos\AssociativeArrays-Exercise\01.Count CharsInAString\bin\Debug\net6.0\01.Count CharsInAString.deps.json
+C:\Users\HP\source\repos\AssociativeArrays-Exercise\01.Count CharsInAString\bin\Debug\net6.0\01.Count CharsInAString.runtimeconfig.json
+C:\Users\HP\source\repos\AssociativeArrays-Exercise\01.Count CharsInAString\bin\Debug\net6.0\01.Count CharsInAString.dll
+C:\Users\HP\source\repos\AssociativeArrays-Exercise\01.Count CharsInAString\bin\Debug\net6.0\01.Count CharsInAString.pdb
+C:\Users\HP\source\repos\AssociativeArrays-Exercise\01.Count CharsInAString\obj\Debug\net6.0\01.Count CharsInAString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\AssociativeArrays-Exercise\01.Count CharsInAString\obj\Debug\net6.0\01.Count CharsInAString.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\AssociativeArrays-Exercise\01.Count CharsInAString\obj\Debug\net6.0\01.Count CharsInAString.AssemblyInfo.cs
+C:\Users\HP\source\repos\AssociativeArrays-Exercise\01.Count CharsInAString\obj\Debug\net6.0\01.Count CharsInAString.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\AssociativeArrays-Exercise\01.Count CharsInAString\obj\Debug\net6.0\01.Count CharsInAString.dll
+C:\Users\HP\source\repos\AssociativeArrays-Exercise\01.Count CharsInAString\obj\Debug\net6.0\refint\01.Count CharsInAString.dll
+C:\Users\HP\source\repos\AssociativeArrays-Exercise\01.Count CharsInAString\obj\Debug\net6.0\01.Count CharsInAString.pdb
+C:\Users\HP\source\repos\AssociativeArrays-Exercise\01.Count CharsInAString\obj\Debug\net6.0\01.Count CharsInAString.genruntimeconfig.cache
+C:\Users\HP\source\repos\AssociativeArrays-Exercise\01.Count CharsInAString\obj\Debug\net6.0\ref\01.Count CharsInAString.dll
