@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\ObjectsAndClasses-Lab\ObjectsAndClasses-Lab\bin\Debug\net6.0\01.RandomizeWords.exe
+C:\Users\HP\source\repos\ObjectsAndClasses-Lab\ObjectsAndClasses-Lab\bin\Debug\net6.0\01.RandomizeWords.deps.json
+C:\Users\HP\source\repos\ObjectsAndClasses-Lab\ObjectsAndClasses-Lab\bin\Debug\net6.0\01.RandomizeWords.runtimeconfig.json
+C:\Users\HP\source\repos\ObjectsAndClasses-Lab\ObjectsAndClasses-Lab\bin\Debug\net6.0\01.RandomizeWords.dll
+C:\Users\HP\source\repos\ObjectsAndClasses-Lab\ObjectsAndClasses-Lab\bin\Debug\net6.0\01.RandomizeWords.pdb
+C:\Users\HP\source\repos\ObjectsAndClasses-Lab\ObjectsAndClasses-Lab\obj\Debug\net6.0\01.RandomizeWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ObjectsAndClasses-Lab\ObjectsAndClasses-Lab\obj\Debug\net6.0\01.RandomizeWords.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ObjectsAndClasses-Lab\ObjectsAndClasses-Lab\obj\Debug\net6.0\01.RandomizeWords.AssemblyInfo.cs
+C:\Users\HP\source\repos\ObjectsAndClasses-Lab\ObjectsAndClasses-Lab\obj\Debug\net6.0\01.RandomizeWords.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ObjectsAndClasses-Lab\ObjectsAndClasses-Lab\obj\Debug\net6.0\01.RandomizeWords.dll
+C:\Users\HP\source\repos\ObjectsAndClasses-Lab\ObjectsAndClasses-Lab\obj\Debug\net6.0\refint\01.RandomizeWords.dll
+C:\Users\HP\source\repos\ObjectsAndClasses-Lab\ObjectsAndClasses-Lab\obj\Debug\net6.0\01.RandomizeWords.pdb
+C:\Users\HP\source\repos\ObjectsAndClasses-Lab\ObjectsAndClasses-Lab\obj\Debug\net6.0\01.RandomizeWords.genruntimeconfig.cache
+C:\Users\HP\source\repos\ObjectsAndClasses-Lab\ObjectsAndClasses-Lab\obj\Debug\net6.0\ref\01.RandomizeWords.dll
