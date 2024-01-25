@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Lists-MoreExercise\01.SinoTheWalker\bin\Debug\net6.0\01.SinoTheWalker.exe
+C:\Users\HP\source\repos\Lists-MoreExercise\01.SinoTheWalker\bin\Debug\net6.0\01.SinoTheWalker.deps.json
+C:\Users\HP\source\repos\Lists-MoreExercise\01.SinoTheWalker\bin\Debug\net6.0\01.SinoTheWalker.runtimeconfig.json
+C:\Users\HP\source\repos\Lists-MoreExercise\01.SinoTheWalker\bin\Debug\net6.0\01.SinoTheWalker.dll
+C:\Users\HP\source\repos\Lists-MoreExercise\01.SinoTheWalker\bin\Debug\net6.0\01.SinoTheWalker.pdb
+C:\Users\HP\source\repos\Lists-MoreExercise\01.SinoTheWalker\obj\Debug\net6.0\01.SinoTheWalker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Lists-MoreExercise\01.SinoTheWalker\obj\Debug\net6.0\01.SinoTheWalker.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Lists-MoreExercise\01.SinoTheWalker\obj\Debug\net6.0\01.SinoTheWalker.AssemblyInfo.cs
+C:\Users\HP\source\repos\Lists-MoreExercise\01.SinoTheWalker\obj\Debug\net6.0\01.SinoTheWalker.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Lists-MoreExercise\01.SinoTheWalker\obj\Debug\net6.0\01.SinoTheWalker.dll
+C:\Users\HP\source\repos\Lists-MoreExercise\01.SinoTheWalker\obj\Debug\net6.0\refint\01.SinoTheWalker.dll
+C:\Users\HP\source\repos\Lists-MoreExercise\01.SinoTheWalker\obj\Debug\net6.0\01.SinoTheWalker.pdb
+C:\Users\HP\source\repos\Lists-MoreExercise\01.SinoTheWalker\obj\Debug\net6.0\01.SinoTheWalker.genruntimeconfig.cache
+C:\Users\HP\source\repos\Lists-MoreExercise\01.SinoTheWalker\obj\Debug\net6.0\ref\01.SinoTheWalker.dll
