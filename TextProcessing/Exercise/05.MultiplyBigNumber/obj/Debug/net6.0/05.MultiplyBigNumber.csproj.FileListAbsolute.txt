@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\TextProcessing-Exercise\05.MultiplyBigNumber\bin\Debug\net6.0\05.MultiplyBigNumber.exe
+C:\Users\HP\source\repos\TextProcessing-Exercise\05.MultiplyBigNumber\bin\Debug\net6.0\05.MultiplyBigNumber.deps.json
+C:\Users\HP\source\repos\TextProcessing-Exercise\05.MultiplyBigNumber\bin\Debug\net6.0\05.MultiplyBigNumber.runtimeconfig.json
+C:\Users\HP\source\repos\TextProcessing-Exercise\05.MultiplyBigNumber\bin\Debug\net6.0\05.MultiplyBigNumber.dll
+C:\Users\HP\source\repos\TextProcessing-Exercise\05.MultiplyBigNumber\bin\Debug\net6.0\05.MultiplyBigNumber.pdb
+C:\Users\HP\source\repos\TextProcessing-Exercise\05.MultiplyBigNumber\obj\Debug\net6.0\05.MultiplyBigNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\TextProcessing-Exercise\05.MultiplyBigNumber\obj\Debug\net6.0\05.MultiplyBigNumber.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\TextProcessing-Exercise\05.MultiplyBigNumber\obj\Debug\net6.0\05.MultiplyBigNumber.AssemblyInfo.cs
+C:\Users\HP\source\repos\TextProcessing-Exercise\05.MultiplyBigNumber\obj\Debug\net6.0\05.MultiplyBigNumber.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\TextProcessing-Exercise\05.MultiplyBigNumber\obj\Debug\net6.0\05.MultiplyBigNumber.dll
+C:\Users\HP\source\repos\TextProcessing-Exercise\05.MultiplyBigNumber\obj\Debug\net6.0\refint\05.MultiplyBigNumber.dll
+C:\Users\HP\source\repos\TextProcessing-Exercise\05.MultiplyBigNumber\obj\Debug\net6.0\05.MultiplyBigNumber.pdb
+C:\Users\HP\source\repos\TextProcessing-Exercise\05.MultiplyBigNumber\obj\Debug\net6.0\05.MultiplyBigNumber.genruntimeconfig.cache
+C:\Users\HP\source\repos\TextProcessing-Exercise\05.MultiplyBigNumber\obj\Debug\net6.0\ref\05.MultiplyBigNumber.dll
