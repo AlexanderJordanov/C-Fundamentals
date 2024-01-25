@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam3\Problem5-BlackFlag\bin\Debug\net6.0\Problem5-BlackFlag.exe
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam3\Problem5-BlackFlag\bin\Debug\net6.0\Problem5-BlackFlag.deps.json
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam3\Problem5-BlackFlag\bin\Debug\net6.0\Problem5-BlackFlag.runtimeconfig.json
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam3\Problem5-BlackFlag\bin\Debug\net6.0\Problem5-BlackFlag.dll
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam3\Problem5-BlackFlag\bin\Debug\net6.0\Problem5-BlackFlag.pdb
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam3\Problem5-BlackFlag\obj\Debug\net6.0\Problem5-BlackFlag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam3\Problem5-BlackFlag\obj\Debug\net6.0\Problem5-BlackFlag.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam3\Problem5-BlackFlag\obj\Debug\net6.0\Problem5-BlackFlag.AssemblyInfo.cs
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam3\Problem5-BlackFlag\obj\Debug\net6.0\Problem5-BlackFlag.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam3\Problem5-BlackFlag\obj\Debug\net6.0\Problem5-BlackFlag.dll
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam3\Problem5-BlackFlag\obj\Debug\net6.0\refint\Problem5-BlackFlag.dll
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam3\Problem5-BlackFlag\obj\Debug\net6.0\Problem5-BlackFlag.pdb
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam3\Problem5-BlackFlag\obj\Debug\net6.0\Problem5-BlackFlag.genruntimeconfig.cache
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam3\Problem5-BlackFlag\obj\Debug\net6.0\ref\Problem5-BlackFlag.dll
