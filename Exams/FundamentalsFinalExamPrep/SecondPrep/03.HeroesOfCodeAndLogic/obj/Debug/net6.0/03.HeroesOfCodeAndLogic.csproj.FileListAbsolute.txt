@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\04.ProgrammingFundamentalsFinalExamPreparation2\03.HeroesOfCodeAndLogic\bin\Debug\net6.0\03.HeroesOfCodeAndLogic.exe
+C:\Users\HP\source\repos\04.ProgrammingFundamentalsFinalExamPreparation2\03.HeroesOfCodeAndLogic\bin\Debug\net6.0\03.HeroesOfCodeAndLogic.deps.json
+C:\Users\HP\source\repos\04.ProgrammingFundamentalsFinalExamPreparation2\03.HeroesOfCodeAndLogic\bin\Debug\net6.0\03.HeroesOfCodeAndLogic.runtimeconfig.json
+C:\Users\HP\source\repos\04.ProgrammingFundamentalsFinalExamPreparation2\03.HeroesOfCodeAndLogic\bin\Debug\net6.0\03.HeroesOfCodeAndLogic.dll
+C:\Users\HP\source\repos\04.ProgrammingFundamentalsFinalExamPreparation2\03.HeroesOfCodeAndLogic\bin\Debug\net6.0\03.HeroesOfCodeAndLogic.pdb
+C:\Users\HP\source\repos\04.ProgrammingFundamentalsFinalExamPreparation2\03.HeroesOfCodeAndLogic\obj\Debug\net6.0\03.HeroesOfCodeAndLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\04.ProgrammingFundamentalsFinalExamPreparation2\03.HeroesOfCodeAndLogic\obj\Debug\net6.0\03.HeroesOfCodeAndLogic.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\04.ProgrammingFundamentalsFinalExamPreparation2\03.HeroesOfCodeAndLogic\obj\Debug\net6.0\03.HeroesOfCodeAndLogic.AssemblyInfo.cs
+C:\Users\HP\source\repos\04.ProgrammingFundamentalsFinalExamPreparation2\03.HeroesOfCodeAndLogic\obj\Debug\net6.0\03.HeroesOfCodeAndLogic.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\04.ProgrammingFundamentalsFinalExamPreparation2\03.HeroesOfCodeAndLogic\obj\Debug\net6.0\03.HeroesOfCodeAndLogic.dll
+C:\Users\HP\source\repos\04.ProgrammingFundamentalsFinalExamPreparation2\03.HeroesOfCodeAndLogic\obj\Debug\net6.0\refint\03.HeroesOfCodeAndLogic.dll
+C:\Users\HP\source\repos\04.ProgrammingFundamentalsFinalExamPreparation2\03.HeroesOfCodeAndLogic\obj\Debug\net6.0\03.HeroesOfCodeAndLogic.pdb
+C:\Users\HP\source\repos\04.ProgrammingFundamentalsFinalExamPreparation2\03.HeroesOfCodeAndLogic\obj\Debug\net6.0\03.HeroesOfCodeAndLogic.genruntimeconfig.cache
+C:\Users\HP\source\repos\04.ProgrammingFundamentalsFinalExamPreparation2\03.HeroesOfCodeAndLogic\obj\Debug\net6.0\ref\03.HeroesOfCodeAndLogic.dll

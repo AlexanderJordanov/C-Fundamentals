@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\04.ProgrammingFundamentalsFinalExamPreparation2\02.FancyBarcodes\bin\Debug\net6.0\02.FancyBarcodes.exe
+C:\Users\HP\source\repos\04.ProgrammingFundamentalsFinalExamPreparation2\02.FancyBarcodes\bin\Debug\net6.0\02.FancyBarcodes.deps.json
+C:\Users\HP\source\repos\04.ProgrammingFundamentalsFinalExamPreparation2\02.FancyBarcodes\bin\Debug\net6.0\02.FancyBarcodes.runtimeconfig.json
+C:\Users\HP\source\repos\04.ProgrammingFundamentalsFinalExamPreparation2\02.FancyBarcodes\bin\Debug\net6.0\02.FancyBarcodes.dll
+C:\Users\HP\source\repos\04.ProgrammingFundamentalsFinalExamPreparation2\02.FancyBarcodes\bin\Debug\net6.0\02.FancyBarcodes.pdb
+C:\Users\HP\source\repos\04.ProgrammingFundamentalsFinalExamPreparation2\02.FancyBarcodes\obj\Debug\net6.0\02.FancyBarcodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\04.ProgrammingFundamentalsFinalExamPreparation2\02.FancyBarcodes\obj\Debug\net6.0\02.FancyBarcodes.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\04.ProgrammingFundamentalsFinalExamPreparation2\02.FancyBarcodes\obj\Debug\net6.0\02.FancyBarcodes.AssemblyInfo.cs
+C:\Users\HP\source\repos\04.ProgrammingFundamentalsFinalExamPreparation2\02.FancyBarcodes\obj\Debug\net6.0\02.FancyBarcodes.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\04.ProgrammingFundamentalsFinalExamPreparation2\02.FancyBarcodes\obj\Debug\net6.0\02.FancyBarcodes.dll
+C:\Users\HP\source\repos\04.ProgrammingFundamentalsFinalExamPreparation2\02.FancyBarcodes\obj\Debug\net6.0\refint\02.FancyBarcodes.dll
+C:\Users\HP\source\repos\04.ProgrammingFundamentalsFinalExamPreparation2\02.FancyBarcodes\obj\Debug\net6.0\02.FancyBarcodes.pdb
+C:\Users\HP\source\repos\04.ProgrammingFundamentalsFinalExamPreparation2\02.FancyBarcodes\obj\Debug\net6.0\02.FancyBarcodes.genruntimeconfig.cache
+C:\Users\HP\source\repos\04.ProgrammingFundamentalsFinalExamPreparation2\02.FancyBarcodes\obj\Debug\net6.0\ref\02.FancyBarcodes.dll
