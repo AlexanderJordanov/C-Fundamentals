@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\ObjectsAndClasses-MoreExercise\01.CompanyRoster\bin\Debug\net6.0\01.CompanyRoster.exe
+C:\Users\HP\source\repos\ObjectsAndClasses-MoreExercise\01.CompanyRoster\bin\Debug\net6.0\01.CompanyRoster.deps.json
+C:\Users\HP\source\repos\ObjectsAndClasses-MoreExercise\01.CompanyRoster\bin\Debug\net6.0\01.CompanyRoster.runtimeconfig.json
+C:\Users\HP\source\repos\ObjectsAndClasses-MoreExercise\01.CompanyRoster\bin\Debug\net6.0\01.CompanyRoster.dll
+C:\Users\HP\source\repos\ObjectsAndClasses-MoreExercise\01.CompanyRoster\bin\Debug\net6.0\01.CompanyRoster.pdb
+C:\Users\HP\source\repos\ObjectsAndClasses-MoreExercise\01.CompanyRoster\obj\Debug\net6.0\01.CompanyRoster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ObjectsAndClasses-MoreExercise\01.CompanyRoster\obj\Debug\net6.0\01.CompanyRoster.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ObjectsAndClasses-MoreExercise\01.CompanyRoster\obj\Debug\net6.0\01.CompanyRoster.AssemblyInfo.cs
+C:\Users\HP\source\repos\ObjectsAndClasses-MoreExercise\01.CompanyRoster\obj\Debug\net6.0\01.CompanyRoster.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ObjectsAndClasses-MoreExercise\01.CompanyRoster\obj\Debug\net6.0\01.CompanyRoster.dll
+C:\Users\HP\source\repos\ObjectsAndClasses-MoreExercise\01.CompanyRoster\obj\Debug\net6.0\refint\01.CompanyRoster.dll
+C:\Users\HP\source\repos\ObjectsAndClasses-MoreExercise\01.CompanyRoster\obj\Debug\net6.0\01.CompanyRoster.pdb
+C:\Users\HP\source\repos\ObjectsAndClasses-MoreExercise\01.CompanyRoster\obj\Debug\net6.0\01.CompanyRoster.genruntimeconfig.cache
+C:\Users\HP\source\repos\ObjectsAndClasses-MoreExercise\01.CompanyRoster\obj\Debug\net6.0\ref\01.CompanyRoster.dll

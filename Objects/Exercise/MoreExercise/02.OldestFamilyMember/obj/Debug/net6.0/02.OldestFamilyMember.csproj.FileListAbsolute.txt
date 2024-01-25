@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\ObjectsAndClasses-MoreExercise\02.OldestFamilyMember\bin\Debug\net6.0\02.OldestFamilyMember.exe
+C:\Users\HP\source\repos\ObjectsAndClasses-MoreExercise\02.OldestFamilyMember\bin\Debug\net6.0\02.OldestFamilyMember.deps.json
+C:\Users\HP\source\repos\ObjectsAndClasses-MoreExercise\02.OldestFamilyMember\bin\Debug\net6.0\02.OldestFamilyMember.runtimeconfig.json
+C:\Users\HP\source\repos\ObjectsAndClasses-MoreExercise\02.OldestFamilyMember\bin\Debug\net6.0\02.OldestFamilyMember.dll
+C:\Users\HP\source\repos\ObjectsAndClasses-MoreExercise\02.OldestFamilyMember\bin\Debug\net6.0\02.OldestFamilyMember.pdb
+C:\Users\HP\source\repos\ObjectsAndClasses-MoreExercise\02.OldestFamilyMember\obj\Debug\net6.0\02.OldestFamilyMember.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ObjectsAndClasses-MoreExercise\02.OldestFamilyMember\obj\Debug\net6.0\02.OldestFamilyMember.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ObjectsAndClasses-MoreExercise\02.OldestFamilyMember\obj\Debug\net6.0\02.OldestFamilyMember.AssemblyInfo.cs
+C:\Users\HP\source\repos\ObjectsAndClasses-MoreExercise\02.OldestFamilyMember\obj\Debug\net6.0\02.OldestFamilyMember.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ObjectsAndClasses-MoreExercise\02.OldestFamilyMember\obj\Debug\net6.0\02.OldestFamilyMember.dll
+C:\Users\HP\source\repos\ObjectsAndClasses-MoreExercise\02.OldestFamilyMember\obj\Debug\net6.0\refint\02.OldestFamilyMember.dll
+C:\Users\HP\source\repos\ObjectsAndClasses-MoreExercise\02.OldestFamilyMember\obj\Debug\net6.0\02.OldestFamilyMember.pdb
+C:\Users\HP\source\repos\ObjectsAndClasses-MoreExercise\02.OldestFamilyMember\obj\Debug\net6.0\02.OldestFamilyMember.genruntimeconfig.cache
+C:\Users\HP\source\repos\ObjectsAndClasses-MoreExercise\02.OldestFamilyMember\obj\Debug\net6.0\ref\02.OldestFamilyMember.dll
