@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\RegularExpressions-Exercise\04.StarEnigma\bin\Debug\net6.0\04.StarEnigma.exe
+C:\Users\HP\source\repos\RegularExpressions-Exercise\04.StarEnigma\bin\Debug\net6.0\04.StarEnigma.deps.json
+C:\Users\HP\source\repos\RegularExpressions-Exercise\04.StarEnigma\bin\Debug\net6.0\04.StarEnigma.runtimeconfig.json
+C:\Users\HP\source\repos\RegularExpressions-Exercise\04.StarEnigma\bin\Debug\net6.0\04.StarEnigma.dll
+C:\Users\HP\source\repos\RegularExpressions-Exercise\04.StarEnigma\bin\Debug\net6.0\04.StarEnigma.pdb
+C:\Users\HP\source\repos\RegularExpressions-Exercise\04.StarEnigma\obj\Debug\net6.0\04.StarEnigma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\RegularExpressions-Exercise\04.StarEnigma\obj\Debug\net6.0\04.StarEnigma.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\RegularExpressions-Exercise\04.StarEnigma\obj\Debug\net6.0\04.StarEnigma.AssemblyInfo.cs
+C:\Users\HP\source\repos\RegularExpressions-Exercise\04.StarEnigma\obj\Debug\net6.0\04.StarEnigma.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\RegularExpressions-Exercise\04.StarEnigma\obj\Debug\net6.0\04.StarEnigma.dll
+C:\Users\HP\source\repos\RegularExpressions-Exercise\04.StarEnigma\obj\Debug\net6.0\refint\04.StarEnigma.dll
+C:\Users\HP\source\repos\RegularExpressions-Exercise\04.StarEnigma\obj\Debug\net6.0\04.StarEnigma.pdb
+C:\Users\HP\source\repos\RegularExpressions-Exercise\04.StarEnigma\obj\Debug\net6.0\04.StarEnigma.genruntimeconfig.cache
+C:\Users\HP\source\repos\RegularExpressions-Exercise\04.StarEnigma\obj\Debug\net6.0\ref\04.StarEnigma.dll
