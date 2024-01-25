@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\TextProcessing-Exercise\07.StringExplosion\bin\Debug\net6.0\07.StringExplosion.exe
+C:\Users\HP\source\repos\TextProcessing-Exercise\07.StringExplosion\bin\Debug\net6.0\07.StringExplosion.deps.json
+C:\Users\HP\source\repos\TextProcessing-Exercise\07.StringExplosion\bin\Debug\net6.0\07.StringExplosion.runtimeconfig.json
+C:\Users\HP\source\repos\TextProcessing-Exercise\07.StringExplosion\bin\Debug\net6.0\07.StringExplosion.dll
+C:\Users\HP\source\repos\TextProcessing-Exercise\07.StringExplosion\bin\Debug\net6.0\07.StringExplosion.pdb
+C:\Users\HP\source\repos\TextProcessing-Exercise\07.StringExplosion\obj\Debug\net6.0\07.StringExplosion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\TextProcessing-Exercise\07.StringExplosion\obj\Debug\net6.0\07.StringExplosion.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\TextProcessing-Exercise\07.StringExplosion\obj\Debug\net6.0\07.StringExplosion.AssemblyInfo.cs
+C:\Users\HP\source\repos\TextProcessing-Exercise\07.StringExplosion\obj\Debug\net6.0\07.StringExplosion.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\TextProcessing-Exercise\07.StringExplosion\obj\Debug\net6.0\07.StringExplosion.dll
+C:\Users\HP\source\repos\TextProcessing-Exercise\07.StringExplosion\obj\Debug\net6.0\refint\07.StringExplosion.dll
+C:\Users\HP\source\repos\TextProcessing-Exercise\07.StringExplosion\obj\Debug\net6.0\07.StringExplosion.pdb
+C:\Users\HP\source\repos\TextProcessing-Exercise\07.StringExplosion\obj\Debug\net6.0\07.StringExplosion.genruntimeconfig.cache
+C:\Users\HP\source\repos\TextProcessing-Exercise\07.StringExplosion\obj\Debug\net6.0\ref\07.StringExplosion.dll
