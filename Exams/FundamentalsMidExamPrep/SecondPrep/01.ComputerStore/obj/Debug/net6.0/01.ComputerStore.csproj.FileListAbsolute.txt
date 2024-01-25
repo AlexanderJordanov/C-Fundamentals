@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam2\01.ComputerStore\bin\Debug\net6.0\01.ComputerStore.exe
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam2\01.ComputerStore\bin\Debug\net6.0\01.ComputerStore.deps.json
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam2\01.ComputerStore\bin\Debug\net6.0\01.ComputerStore.runtimeconfig.json
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam2\01.ComputerStore\bin\Debug\net6.0\01.ComputerStore.dll
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam2\01.ComputerStore\bin\Debug\net6.0\01.ComputerStore.pdb
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam2\01.ComputerStore\obj\Debug\net6.0\01.ComputerStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam2\01.ComputerStore\obj\Debug\net6.0\01.ComputerStore.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam2\01.ComputerStore\obj\Debug\net6.0\01.ComputerStore.AssemblyInfo.cs
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam2\01.ComputerStore\obj\Debug\net6.0\01.ComputerStore.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam2\01.ComputerStore\obj\Debug\net6.0\01.ComputerStore.dll
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam2\01.ComputerStore\obj\Debug\net6.0\refint\01.ComputerStore.dll
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam2\01.ComputerStore\obj\Debug\net6.0\01.ComputerStore.pdb
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam2\01.ComputerStore\obj\Debug\net6.0\01.ComputerStore.genruntimeconfig.cache
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam2\01.ComputerStore\obj\Debug\net6.0\ref\01.ComputerStore.dll
