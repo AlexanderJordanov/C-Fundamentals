@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\ArraysLab\PrintNumbersInReverseOrder\bin\Debug\net6.0\PrintNumbersInReverseOrder.exe
+C:\Users\HP\source\repos\ArraysLab\PrintNumbersInReverseOrder\bin\Debug\net6.0\PrintNumbersInReverseOrder.deps.json
+C:\Users\HP\source\repos\ArraysLab\PrintNumbersInReverseOrder\bin\Debug\net6.0\PrintNumbersInReverseOrder.runtimeconfig.json
+C:\Users\HP\source\repos\ArraysLab\PrintNumbersInReverseOrder\bin\Debug\net6.0\PrintNumbersInReverseOrder.dll
+C:\Users\HP\source\repos\ArraysLab\PrintNumbersInReverseOrder\bin\Debug\net6.0\PrintNumbersInReverseOrder.pdb
+C:\Users\HP\source\repos\ArraysLab\PrintNumbersInReverseOrder\obj\Debug\net6.0\PrintNumbersInReverseOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ArraysLab\PrintNumbersInReverseOrder\obj\Debug\net6.0\PrintNumbersInReverseOrder.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ArraysLab\PrintNumbersInReverseOrder\obj\Debug\net6.0\PrintNumbersInReverseOrder.AssemblyInfo.cs
+C:\Users\HP\source\repos\ArraysLab\PrintNumbersInReverseOrder\obj\Debug\net6.0\PrintNumbersInReverseOrder.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ArraysLab\PrintNumbersInReverseOrder\obj\Debug\net6.0\PrintNumbersInReverseOrder.dll
+C:\Users\HP\source\repos\ArraysLab\PrintNumbersInReverseOrder\obj\Debug\net6.0\refint\PrintNumbersInReverseOrder.dll
+C:\Users\HP\source\repos\ArraysLab\PrintNumbersInReverseOrder\obj\Debug\net6.0\PrintNumbersInReverseOrder.pdb
+C:\Users\HP\source\repos\ArraysLab\PrintNumbersInReverseOrder\obj\Debug\net6.0\PrintNumbersInReverseOrder.genruntimeconfig.cache
+C:\Users\HP\source\repos\ArraysLab\PrintNumbersInReverseOrder\obj\Debug\net6.0\ref\PrintNumbersInReverseOrder.dll

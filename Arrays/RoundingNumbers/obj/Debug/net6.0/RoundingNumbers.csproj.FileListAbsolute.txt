@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\ArraysLab\RoundingNumbers\bin\Debug\net6.0\RoundingNumbers.exe
+C:\Users\HP\source\repos\ArraysLab\RoundingNumbers\bin\Debug\net6.0\RoundingNumbers.deps.json
+C:\Users\HP\source\repos\ArraysLab\RoundingNumbers\bin\Debug\net6.0\RoundingNumbers.runtimeconfig.json
+C:\Users\HP\source\repos\ArraysLab\RoundingNumbers\bin\Debug\net6.0\RoundingNumbers.dll
+C:\Users\HP\source\repos\ArraysLab\RoundingNumbers\bin\Debug\net6.0\RoundingNumbers.pdb
+C:\Users\HP\source\repos\ArraysLab\RoundingNumbers\obj\Debug\net6.0\RoundingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ArraysLab\RoundingNumbers\obj\Debug\net6.0\RoundingNumbers.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ArraysLab\RoundingNumbers\obj\Debug\net6.0\RoundingNumbers.AssemblyInfo.cs
+C:\Users\HP\source\repos\ArraysLab\RoundingNumbers\obj\Debug\net6.0\RoundingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ArraysLab\RoundingNumbers\obj\Debug\net6.0\RoundingNumbers.dll
+C:\Users\HP\source\repos\ArraysLab\RoundingNumbers\obj\Debug\net6.0\refint\RoundingNumbers.dll
+C:\Users\HP\source\repos\ArraysLab\RoundingNumbers\obj\Debug\net6.0\RoundingNumbers.pdb
+C:\Users\HP\source\repos\ArraysLab\RoundingNumbers\obj\Debug\net6.0\RoundingNumbers.genruntimeconfig.cache
+C:\Users\HP\source\repos\ArraysLab\RoundingNumbers\obj\Debug\net6.0\ref\RoundingNumbers.dll
