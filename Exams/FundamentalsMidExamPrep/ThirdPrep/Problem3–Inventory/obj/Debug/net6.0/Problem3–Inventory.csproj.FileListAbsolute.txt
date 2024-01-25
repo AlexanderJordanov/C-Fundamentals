@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam3\Problem3–Inventory\bin\Debug\net6.0\Problem3–Inventory.exe
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam3\Problem3–Inventory\bin\Debug\net6.0\Problem3–Inventory.deps.json
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam3\Problem3–Inventory\bin\Debug\net6.0\Problem3–Inventory.runtimeconfig.json
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam3\Problem3–Inventory\bin\Debug\net6.0\Problem3–Inventory.dll
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam3\Problem3–Inventory\bin\Debug\net6.0\Problem3–Inventory.pdb
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam3\Problem3–Inventory\obj\Debug\net6.0\Problem3–Inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam3\Problem3–Inventory\obj\Debug\net6.0\Problem3–Inventory.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam3\Problem3–Inventory\obj\Debug\net6.0\Problem3–Inventory.AssemblyInfo.cs
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam3\Problem3–Inventory\obj\Debug\net6.0\Problem3–Inventory.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam3\Problem3–Inventory\obj\Debug\net6.0\Problem3–Inventory.dll
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam3\Problem3–Inventory\obj\Debug\net6.0\refint\Problem3–Inventory.dll
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam3\Problem3–Inventory\obj\Debug\net6.0\Problem3–Inventory.pdb
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam3\Problem3–Inventory\obj\Debug\net6.0\Problem3–Inventory.genruntimeconfig.cache
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam3\Problem3–Inventory\obj\Debug\net6.0\ref\Problem3–Inventory.dll

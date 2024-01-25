@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam3\Problem1–BonusScoringSystem\bin\Debug\net6.0\Problem1–BonusScoringSystem.exe
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam3\Problem1–BonusScoringSystem\bin\Debug\net6.0\Problem1–BonusScoringSystem.deps.json
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam3\Problem1–BonusScoringSystem\bin\Debug\net6.0\Problem1–BonusScoringSystem.runtimeconfig.json
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam3\Problem1–BonusScoringSystem\bin\Debug\net6.0\Problem1–BonusScoringSystem.dll
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam3\Problem1–BonusScoringSystem\bin\Debug\net6.0\Problem1–BonusScoringSystem.pdb
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam3\Problem1–BonusScoringSystem\obj\Debug\net6.0\Problem1–BonusScoringSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam3\Problem1–BonusScoringSystem\obj\Debug\net6.0\Problem1–BonusScoringSystem.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam3\Problem1–BonusScoringSystem\obj\Debug\net6.0\Problem1–BonusScoringSystem.AssemblyInfo.cs
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam3\Problem1–BonusScoringSystem\obj\Debug\net6.0\Problem1–BonusScoringSystem.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam3\Problem1–BonusScoringSystem\obj\Debug\net6.0\Problem1–BonusScoringSystem.dll
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam3\Problem1–BonusScoringSystem\obj\Debug\net6.0\refint\Problem1–BonusScoringSystem.dll
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam3\Problem1–BonusScoringSystem\obj\Debug\net6.0\Problem1–BonusScoringSystem.pdb
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam3\Problem1–BonusScoringSystem\obj\Debug\net6.0\Problem1–BonusScoringSystem.genruntimeconfig.cache
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam3\Problem1–BonusScoringSystem\obj\Debug\net6.0\ref\Problem1–BonusScoringSystem.dll

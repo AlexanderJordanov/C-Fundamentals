@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam3\Problem2–ArrayModifier\bin\Debug\net6.0\Problem2–ArrayModifier.exe
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam3\Problem2–ArrayModifier\bin\Debug\net6.0\Problem2–ArrayModifier.deps.json
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam3\Problem2–ArrayModifier\bin\Debug\net6.0\Problem2–ArrayModifier.runtimeconfig.json
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam3\Problem2–ArrayModifier\bin\Debug\net6.0\Problem2–ArrayModifier.dll
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam3\Problem2–ArrayModifier\bin\Debug\net6.0\Problem2–ArrayModifier.pdb
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam3\Problem2–ArrayModifier\obj\Debug\net6.0\Problem2–ArrayModifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam3\Problem2–ArrayModifier\obj\Debug\net6.0\Problem2–ArrayModifier.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam3\Problem2–ArrayModifier\obj\Debug\net6.0\Problem2–ArrayModifier.AssemblyInfo.cs
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam3\Problem2–ArrayModifier\obj\Debug\net6.0\Problem2–ArrayModifier.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam3\Problem2–ArrayModifier\obj\Debug\net6.0\Problem2–ArrayModifier.dll
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam3\Problem2–ArrayModifier\obj\Debug\net6.0\refint\Problem2–ArrayModifier.dll
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam3\Problem2–ArrayModifier\obj\Debug\net6.0\Problem2–ArrayModifier.pdb
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam3\Problem2–ArrayModifier\obj\Debug\net6.0\Problem2–ArrayModifier.genruntimeconfig.cache
+C:\Users\HP\source\repos\ProgrammingFundamentalsMidExam3\Problem2–ArrayModifier\obj\Debug\net6.0\ref\Problem2–ArrayModifier.dll
