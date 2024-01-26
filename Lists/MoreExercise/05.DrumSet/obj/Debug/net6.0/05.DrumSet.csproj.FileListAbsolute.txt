@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Lists-MoreExercise\05.DrumSet\bin\Debug\net6.0\05.DrumSet.exe
+C:\Users\HP\source\repos\Lists-MoreExercise\05.DrumSet\bin\Debug\net6.0\05.DrumSet.deps.json
+C:\Users\HP\source\repos\Lists-MoreExercise\05.DrumSet\bin\Debug\net6.0\05.DrumSet.runtimeconfig.json
+C:\Users\HP\source\repos\Lists-MoreExercise\05.DrumSet\bin\Debug\net6.0\05.DrumSet.dll
+C:\Users\HP\source\repos\Lists-MoreExercise\05.DrumSet\bin\Debug\net6.0\05.DrumSet.pdb
+C:\Users\HP\source\repos\Lists-MoreExercise\05.DrumSet\obj\Debug\net6.0\05.DrumSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Lists-MoreExercise\05.DrumSet\obj\Debug\net6.0\05.DrumSet.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Lists-MoreExercise\05.DrumSet\obj\Debug\net6.0\05.DrumSet.AssemblyInfo.cs
+C:\Users\HP\source\repos\Lists-MoreExercise\05.DrumSet\obj\Debug\net6.0\05.DrumSet.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Lists-MoreExercise\05.DrumSet\obj\Debug\net6.0\05.DrumSet.dll
+C:\Users\HP\source\repos\Lists-MoreExercise\05.DrumSet\obj\Debug\net6.0\refint\05.DrumSet.dll
+C:\Users\HP\source\repos\Lists-MoreExercise\05.DrumSet\obj\Debug\net6.0\05.DrumSet.pdb
+C:\Users\HP\source\repos\Lists-MoreExercise\05.DrumSet\obj\Debug\net6.0\05.DrumSet.genruntimeconfig.cache
+C:\Users\HP\source\repos\Lists-MoreExercise\05.DrumSet\obj\Debug\net6.0\ref\05.DrumSet.dll
