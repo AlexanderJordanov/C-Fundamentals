@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\ArraysLab\ReverseArrayOfStrings\bin\Debug\net6.0\ReverseArrayOfStrings.exe
+C:\Users\HP\source\repos\ArraysLab\ReverseArrayOfStrings\bin\Debug\net6.0\ReverseArrayOfStrings.deps.json
+C:\Users\HP\source\repos\ArraysLab\ReverseArrayOfStrings\bin\Debug\net6.0\ReverseArrayOfStrings.runtimeconfig.json
+C:\Users\HP\source\repos\ArraysLab\ReverseArrayOfStrings\bin\Debug\net6.0\ReverseArrayOfStrings.dll
+C:\Users\HP\source\repos\ArraysLab\ReverseArrayOfStrings\bin\Debug\net6.0\ReverseArrayOfStrings.pdb
+C:\Users\HP\source\repos\ArraysLab\ReverseArrayOfStrings\obj\Debug\net6.0\ReverseArrayOfStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ArraysLab\ReverseArrayOfStrings\obj\Debug\net6.0\ReverseArrayOfStrings.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ArraysLab\ReverseArrayOfStrings\obj\Debug\net6.0\ReverseArrayOfStrings.AssemblyInfo.cs
+C:\Users\HP\source\repos\ArraysLab\ReverseArrayOfStrings\obj\Debug\net6.0\ReverseArrayOfStrings.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ArraysLab\ReverseArrayOfStrings\obj\Debug\net6.0\ReverseArrayOfStrings.dll
+C:\Users\HP\source\repos\ArraysLab\ReverseArrayOfStrings\obj\Debug\net6.0\refint\ReverseArrayOfStrings.dll
+C:\Users\HP\source\repos\ArraysLab\ReverseArrayOfStrings\obj\Debug\net6.0\ReverseArrayOfStrings.pdb
+C:\Users\HP\source\repos\ArraysLab\ReverseArrayOfStrings\obj\Debug\net6.0\ReverseArrayOfStrings.genruntimeconfig.cache
+C:\Users\HP\source\repos\ArraysLab\ReverseArrayOfStrings\obj\Debug\net6.0\ref\ReverseArrayOfStrings.dll
