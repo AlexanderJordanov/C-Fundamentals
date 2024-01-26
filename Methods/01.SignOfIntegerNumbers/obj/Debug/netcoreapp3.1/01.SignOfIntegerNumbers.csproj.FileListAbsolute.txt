@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Methods-Lab\01.SignOfIntegerNumbers\bin\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.exe
+C:\Users\HP\source\repos\Methods-Lab\01.SignOfIntegerNumbers\bin\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.deps.json
+C:\Users\HP\source\repos\Methods-Lab\01.SignOfIntegerNumbers\bin\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.runtimeconfig.json
+C:\Users\HP\source\repos\Methods-Lab\01.SignOfIntegerNumbers\bin\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Methods-Lab\01.SignOfIntegerNumbers\bin\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.dll
+C:\Users\HP\source\repos\Methods-Lab\01.SignOfIntegerNumbers\bin\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.pdb
+C:\Users\HP\source\repos\Methods-Lab\01.SignOfIntegerNumbers\obj\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Methods-Lab\01.SignOfIntegerNumbers\obj\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Methods-Lab\01.SignOfIntegerNumbers\obj\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.AssemblyInfo.cs
+C:\Users\HP\source\repos\Methods-Lab\01.SignOfIntegerNumbers\obj\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Methods-Lab\01.SignOfIntegerNumbers\obj\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.dll
+C:\Users\HP\source\repos\Methods-Lab\01.SignOfIntegerNumbers\obj\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.pdb
+C:\Users\HP\source\repos\Methods-Lab\01.SignOfIntegerNumbers\obj\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.genruntimeconfig.cache
