@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\TextProcessing-Lab\TextProcessing-Lab\bin\Debug\net6.0\01.ReverseStrings.exe
+C:\Users\HP\source\repos\TextProcessing-Lab\TextProcessing-Lab\bin\Debug\net6.0\01.ReverseStrings.deps.json
+C:\Users\HP\source\repos\TextProcessing-Lab\TextProcessing-Lab\bin\Debug\net6.0\01.ReverseStrings.runtimeconfig.json
+C:\Users\HP\source\repos\TextProcessing-Lab\TextProcessing-Lab\bin\Debug\net6.0\01.ReverseStrings.dll
+C:\Users\HP\source\repos\TextProcessing-Lab\TextProcessing-Lab\bin\Debug\net6.0\01.ReverseStrings.pdb
+C:\Users\HP\source\repos\TextProcessing-Lab\TextProcessing-Lab\obj\Debug\net6.0\01.ReverseStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\TextProcessing-Lab\TextProcessing-Lab\obj\Debug\net6.0\01.ReverseStrings.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\TextProcessing-Lab\TextProcessing-Lab\obj\Debug\net6.0\01.ReverseStrings.AssemblyInfo.cs
+C:\Users\HP\source\repos\TextProcessing-Lab\TextProcessing-Lab\obj\Debug\net6.0\01.ReverseStrings.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\TextProcessing-Lab\TextProcessing-Lab\obj\Debug\net6.0\01.ReverseStrings.dll
+C:\Users\HP\source\repos\TextProcessing-Lab\TextProcessing-Lab\obj\Debug\net6.0\refint\01.ReverseStrings.dll
+C:\Users\HP\source\repos\TextProcessing-Lab\TextProcessing-Lab\obj\Debug\net6.0\01.ReverseStrings.pdb
+C:\Users\HP\source\repos\TextProcessing-Lab\TextProcessing-Lab\obj\Debug\net6.0\01.ReverseStrings.genruntimeconfig.cache
+C:\Users\HP\source\repos\TextProcessing-Lab\TextProcessing-Lab\obj\Debug\net6.0\ref\01.ReverseStrings.dll
